@@ -1,0 +1,9 @@
+node_modules/
+~$*.docx
+~$*.pptx
+.env
+.env.*
+*.aux
+*.log
+*.out
+*.toc
